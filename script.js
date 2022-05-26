@@ -45,7 +45,7 @@ function move(event) {
         }
         
     }
-    alert("slo="+slovopobeda+"s="+s)
+    
 if (slovopobeda ==s) { 
    win.src="img/victory.jpg";
  }
